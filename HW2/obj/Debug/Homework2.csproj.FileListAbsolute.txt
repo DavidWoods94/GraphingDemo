@@ -1,0 +1,11 @@
+C:\Users\andrea valentina\Desktop\COP4331\Homework2\HW2\bin\Debug\Graphing Demo.exe.config
+C:\Users\andrea valentina\Desktop\COP4331\Homework2\HW2\bin\Debug\Graphing Demo.exe
+C:\Users\andrea valentina\Desktop\COP4331\Homework2\HW2\bin\Debug\Graphing Demo.pdb
+C:\Users\andrea valentina\Desktop\COP4331\Homework2\HW2\obj\Debug\Homework2.csprojResolveAssemblyReference.cache
+C:\Users\andrea valentina\Desktop\COP4331\Homework2\HW2\obj\Debug\Graphing_Demo.Form1.resources
+C:\Users\andrea valentina\Desktop\COP4331\Homework2\HW2\obj\Debug\Graphing_Demo.GraphControlForm.resources
+C:\Users\andrea valentina\Desktop\COP4331\Homework2\HW2\obj\Debug\Graphing_Demo.GraphForm.resources
+C:\Users\andrea valentina\Desktop\COP4331\Homework2\HW2\obj\Debug\Graphing_Demo.Properties.Resources.resources
+C:\Users\andrea valentina\Desktop\COP4331\Homework2\HW2\obj\Debug\Homework2.csproj.GenerateResource.Cache
+C:\Users\andrea valentina\Desktop\COP4331\Homework2\HW2\obj\Debug\Graphing Demo.exe
+C:\Users\andrea valentina\Desktop\COP4331\Homework2\HW2\obj\Debug\Graphing Demo.pdb
